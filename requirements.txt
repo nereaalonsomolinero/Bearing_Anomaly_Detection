@@ -1,0 +1,16 @@
+# Core Deep Learning Libraries
+torch==1.12.0
+torchvision==0.13.0
+
+# Computer Vision & Image Processing
+opencv-python==4.5.5.64
+timm==0.6.12
+
+# Data Science & Analytics
+numpy==1.22.0
+scikit-learn==1.0.2
+scipy==1.8.0
+
+# Visualization & Progress Bars
+matplotlib==3.5.1
+tqdm==4.64.0
